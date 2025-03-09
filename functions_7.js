@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['operator_28_29_0',['operator()',['../classmatrix.html#a3ed2c1d6a9f1f497459bed7a8daaa43b',1,'matrix::operator()(unsigned int l, unsigned int c) const'],['../classmatrix.html#ac899c71f638b61876e46bdb89fa229df',1,'matrix::operator()(unsigned int l, unsigned int c)'],['../classmatrix__plf.html#a442cf858be351c6e683fab459ce869ba',1,'matrix_plf::operator()()']]],
+  ['operator_2a_1',['operator*',['../matrix_8cpp.html#ac99a6c66eaf6370352944be7be3d7ab3',1,'operator*(const long double k, const matrix &amp;M1):&#160;matrix.cpp'],['../matrix_8cpp.html#adb3cb4c0a5c95929e2f3f87ab53c0025',1,'operator*(const matrix &amp;M1, const matrix &amp;M2):&#160;matrix.cpp'],['../matrix_8h.html#ac99a6c66eaf6370352944be7be3d7ab3',1,'operator*(const long double k, const matrix &amp;M1):&#160;matrix.cpp'],['../matrix_8h.html#adb3cb4c0a5c95929e2f3f87ab53c0025',1,'operator*(const matrix &amp;M1, const matrix &amp;M2):&#160;matrix.cpp']]],
+  ['operator_2b_2',['operator+',['../matrix_8cpp.html#aa569b6c2e536ea6dec879a0d5c5afd05',1,'operator+(const matrix &amp;M1, const matrix &amp;M2):&#160;matrix.cpp'],['../matrix_8h.html#aa569b6c2e536ea6dec879a0d5c5afd05',1,'operator+(const matrix &amp;M1, const matrix &amp;M2):&#160;matrix.cpp']]],
+  ['operator_3c_3c_3',['operator&lt;&lt;',['../matrix_8cpp.html#a9bc3c1c73647540e1469af741f708591',1,'operator&lt;&lt;(std::ostream &amp;st, const matrix &amp;M):&#160;matrix.cpp'],['../matrix_8h.html#a9bc3c1c73647540e1469af741f708591',1,'operator&lt;&lt;(std::ostream &amp;st, const matrix &amp;M):&#160;matrix.cpp']]],
+  ['operator_3d_4',['operator=',['../classmatrix.html#aeda78419878b31c90c48ed86f5754833',1,'matrix']]]
+];
